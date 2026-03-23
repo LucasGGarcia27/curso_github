@@ -1,0 +1,4 @@
+
+LISTAGEM DE TODOS OS USUÁRIOS DA NOSSA PLATAFORMA 
+
+Buscar > nome > email e ID
